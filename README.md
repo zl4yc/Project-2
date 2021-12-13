@@ -8,7 +8,7 @@ In this project, we created a twitter bot using python and deployed it to a Amaz
 This repository contains the necessary files to write a python application that can be run to execute the Twitter API, reading and writing information from the remote YahooFinance API. 
 
 # User Instruction
-**1. Get stock ticker value** (Benchmark )
+**1. Get stock ticker value** (Benchmark #1 & #3)
  - When sending a tweet to bot @YahooTwitBot with a certain company's symbol (i.e. @YahooTwitBot AMZN), the twitter bot will reply with that company's stock ticker, company's full name, and time at which the price is set. 
  - A complete and searchable list of all companies supported by this bot and the symbol-name conversion can be found at this link (https://finance.yahoo.com/lookup).
  - @YahooTwitBot will also guide users to this page if user uses a unrecognized or mistaken company symbol.  
