@@ -1,4 +1,11 @@
 # DS 3002 Project-2
+Author: Shining Wang and Lily Lin (computing id: zl4yc)
+
+Project: YahooFinance API Twitter Bot  
+
+In this project, we created a twitter bot using python and deployed it to a Amazon EC2 intance using docker to run the application automatic and continuous backstage. The twitter bot (@YahooTwitBot) can be used to find useful information regarding to companies' stock ticker value when using the right command. @YahooTwitBot will respond to mentions from Twitter users requesting stock ticker value using a certain company's symbol. The twitter bot can also say hello. If user requests help or enters an unsupported command, the bot will guide user to user instruction.
+
+This repository contains the necessary files to write a python application that can be run to execute the Twitter API, reading and writing information from the remote YahooFinance API. 
 
 # User Instruction
 **1. Get stock ticker value** (Benchmark )
