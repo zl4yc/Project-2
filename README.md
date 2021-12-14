@@ -16,8 +16,9 @@ This repository contains the necessary files to write a python application that 
 **2. Hello**
  - When sending a tweet to bot @YahooTwitBot that contains "hello!", the twitter will respond "Hello back to you!" 
 
-**3. Help! (Benchmark #2)**
+**3. Help!** (Benchmark #2)
  - When sending a tweet to bot @YahooTwitBot that contains "help!" or "info!", the twitter will respond with a link to this page which contains the user instruction.
-**4. Mi
+
+**4. Miscellaneous**
  - Please always add "!" at the end of a "hello", "help", or "info" request for amusement reasons. 
  - The bot doesn't distinguish between capital and lowercase letters. Everything works! 
