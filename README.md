@@ -14,8 +14,10 @@ This repository contains the necessary files to write a python application that 
  - @YahooTwitBot will also guide users to this page if user uses a unrecognized or mistaken company symbol.  
 
 **2. Hello**
- - When sending a tweet to bot @YahooTwitBot that contains "hello", the twitter will respond "Hello back to you!" 
+ - When sending a tweet to bot @YahooTwitBot that contains "hello!", the twitter will respond "Hello back to you!" 
 
 **3. Help! (Benchmark #2)**
  - When sending a tweet to bot @YahooTwitBot that contains "help!" or "info!", the twitter will respond with a link to this page which contains the user instruction.
- - Please always add "!" at the end for amusement reasons. 
+**4. Mi
+ - Please always add "!" at the end of a "hello", "help", or "info" request for amusement reasons. 
+ - The bot doesn't distinguish between capital and lowercase letters. Everything works! 
