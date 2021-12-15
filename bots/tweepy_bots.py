@@ -3,7 +3,7 @@
 """
 Created on Sun Dec 12 09:32:40 2021
 
-@author: shining and lily
+@author: Shining and lily
 """
 
 import tweepy
